@@ -1,5 +1,5 @@
 
-//GCC c,G++ C++
+//use GCC c,G++ C++
 #include <cstdio>
 int main(void)
 {
